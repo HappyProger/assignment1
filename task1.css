@@ -1,0 +1,42 @@
+h3{ 
+position:relative;
+ 
+ align-items:center; 
+} 
+.href{ 
+color: #00fbff; 
+text-decoration: none;
+  }
+ table { 
+  
+ 
+border-collapse:collapse; 
+width:60%; 
+ } 
+   th, td {
+      border: 1px solid black;
+      padding: 5px;
+
+      text-align: left;
+    }
+ th { 
+ background-color: blue; 
+ color: white;
+  } 
+  div{ 
+  width: 60%; 
+   display:flex; 
+  	justify-content: space-around;
+   } 
+   .lec{  
+   text-align: center;
+   border-radius: 10px;
+    width: 70px;
+   background-color: #e8a915;
+    }
+    .pract{  
+    	background-color:  #1de031 ;
+       text-align: center;
+   border-radius: 10px;
+    width: 70px;
+     }
